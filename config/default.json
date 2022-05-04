@@ -2,5 +2,5 @@
     "port": 5000,
     "mongoUri": "mongodb+srv://aokiji:05022006bt@cluster0.kcmly.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "aokiji123",
-    "baseUrl": "https://aokiji123.github.io/mern-stack/"
+    "baseUrl": "http://localhost:5000"
 }
